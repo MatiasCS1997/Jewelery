@@ -1,5 +1,5 @@
-HOST: ""
-USER: ""
-PASSWORD: ""
-DATABASE: ""
-PORT=
+HOST: "process.env.HOST"
+USER: "postgres"
+PASSWORD: "44182"
+DATABASE: "joyeria"
+PORT= 5433
